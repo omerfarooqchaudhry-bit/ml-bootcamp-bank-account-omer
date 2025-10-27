@@ -1,0 +1,6 @@
+Account Statement for Alice (Checking)
+Account ID: af1d3a8a
+Opening Balance: $500.00
+----------------------------------------
+2025-10-27 02:52:48 | Deposit    |   200.00 | Balance: $700.00
+2025-10-27 02:52:48 | Withdrawal |  -100.00 | Balance: $600.00

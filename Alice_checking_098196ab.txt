@@ -1,0 +1,6 @@
+Account Statement for Alice (Checking)
+Account ID: 098196ab
+Opening Balance: $500.00
+----------------------------------------
+2025-10-27 02:52:07 | Deposit    |   200.00 | Balance: $700.00
+2025-10-27 02:52:07 | Withdrawal |  -100.00 | Balance: $600.00

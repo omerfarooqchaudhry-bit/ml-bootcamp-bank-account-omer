@@ -1,0 +1,6 @@
+Account Statement for Bob (Saving)
+Account ID: faafa7cf
+Opening Balance: $0.00
+----------------------------------------
+2025-10-27 02:52:07 | Deposit    |  1000.00 | Balance: $1000.00
+2025-10-27 02:52:07 | Withdrawal |  -300.00 | Balance: $700.00
